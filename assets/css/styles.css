@@ -1,0 +1,33 @@
+body {
+  background-color: #202020;
+}
+
+#TextColor {
+}
+
+#Logo {
+  height: 45px;
+  background: url("../../assets/img/Logo1.jpg") center / contain no-repeat;
+}
+
+#BTN {
+}
+
+#ClmnPic {
+}
+
+#clmnPic {
+  background: url("../../assets/img/WhatsApp%20Image%202021-10-06%20at%2019.28.29.jpeg") center / no repeat;
+}
+
+.Paddinggrid {
+  height: 200px;
+}
+
+#Img {
+  background: url("../../assets/img/Pic1.jpeg") center / cover no-repeat;
+  height: 300px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
